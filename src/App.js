@@ -12,7 +12,7 @@ import { Recipe } from './pages/Recipe';
 function App() {
   return (
     <div>
-      <Router basename='/react-food'>
+      <Router basename='/react-delivery'>
         <Header />
           <main className="content container">
             <Switch>
