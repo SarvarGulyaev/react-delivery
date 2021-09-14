@@ -11,7 +11,7 @@ function Header() {
                 </div>
                
                 <div >
-                   <a href="https://yandex.ru" target="_blank" rel="noreferrer"><h4>SarvarGulyaev</h4></a>
+                   <a href="https://github.com/SarvarGulyaev" target="_blank" rel="noreferrer"><h4>SarvarGulyaev</h4></a>
                 </div>
             
         </nav>
