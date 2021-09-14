@@ -1,3 +1,4 @@
+import React from 'react'
 import { MealList } from "./MealList"
 
 function MealItem(props) {
