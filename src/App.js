@@ -10,7 +10,7 @@ import { Recipe } from './pages/Recipe';
 
 function App() {
   return (
-    <>
+    <div>
       <Router basename='/react-food'>
         <Header />
           <main className="content container">
@@ -23,7 +23,7 @@ function App() {
           </main>
         <Footer />
       </Router>
-    </>
+    </div>
   );
 }
 
